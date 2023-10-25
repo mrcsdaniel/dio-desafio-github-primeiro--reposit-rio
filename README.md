@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro--repositório
+# dio-desafio-github-primeiro-repositório
 Criando meu primeiro repositório
